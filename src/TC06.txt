@@ -1,0 +1,7 @@
+James has done test case 6
+
+James added TC 6 to the smoke suite 
+
+..
+..
+..
